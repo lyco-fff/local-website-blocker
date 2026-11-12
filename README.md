@@ -2,7 +2,7 @@
 
 **Windows Website Blocker**
 
-A lightweight local batch script that leverages Windows Defender to block websites on Windows. It runs 100% locally and offline with zero data collection.
+A lightweight local batch script that leverages Windows Defender to block websites on Windows. It runs locally and offline. 
 
 **Setup & Usage:**
 1. Download the .bat file.
