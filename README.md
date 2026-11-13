@@ -28,4 +28,4 @@ If you find a bug, please email me at **peppereddd@gmail.com** with the steps to
 
 **AI Disclosure:**
 
-20%-30% of the end-product code was generated using AI. AI was used in the process only to troubleshoot and identify edge-cases and bugs in advance.
+> 20%-30% of the end-product code was generated using AI. AI was used in the process only to troubleshoot and identify edge-cases and bugs in advance.
